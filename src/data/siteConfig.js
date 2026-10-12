@@ -5,9 +5,9 @@ export const siteConfig = {
     "Custom furniture, modular kitchens, and complete on-site carpentry solutions, thoughtfully crafted across Pune.",
   
   // Real contact setup (Change number here only)
-  phone: "+91 98765 43210",
-  whatsappNumber: "919876543210", // 12-digit Indian number without spaces/symbols
-  email: "contact@punewoodcraft.in",
+  phone: "+91 7738209500",
+  whatsappNumber: "7738209500", // 12-digit Indian number without spaces/symbols
+  email: "infosamratmaurya@gmail.com",
   city: "Pune, Maharashtra",
   
   // Service Areas in Pune (Easily configurable)

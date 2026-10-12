@@ -110,7 +110,7 @@ export default function ContactForm() {
                 name="phone"
                 value={formData.phone}
                 onChange={handleChange}
-                placeholder="9876543210"
+                placeholder="7738209500"
                 className={`w-full px-4 py-3 rounded-lg bg-charcoal border ${
                   errors.phone ? 'border-red-500' : 'border-charcoal-light'
                 } text-warmbeige placeholder-warmbeige/30 focus:border-woodgold focus:outline-none transition-colors text-sm`}
